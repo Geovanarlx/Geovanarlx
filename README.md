@@ -6,9 +6,9 @@
 
 Transformo curiosidade em projetos — com atenção aos detalhes, vontade de aprender e um café por perto. ☕
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-7C5CFC?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://geovanarlx.github.io/Portifolio-Geovana-Lima/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C5CFC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://geovanarlx.github.io/Portifolio-Geovana-Lima/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovana-lima-bbaa4a351/)
-[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geovanalimaczs567@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geovanalimaczs567@gmail.com)
 
 </div>
 
@@ -76,8 +76,8 @@ Por aqui você encontra projetos acadêmicos, experimentos de desenvolvimento e 
 
 Sempre aberta a aprender, colaborar e conhecer gente que também gosta de criar coisas legais. 🙂
 
-[![LinkedIn](https://img.shields.io/badge/Me_encontre_no_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovana-lima-bbaa4a351/)
-[![Portfólio](https://img.shields.io/badge/Dê_uma_olhada_no_portfólio-7C5CFC?style=flat-square&logo=firefox-browser&logoColor=white)](https://geovanarlx.github.io/Portifolio-Geovana-Lima/)
-[![E-mail](https://img.shields.io/badge/Me_escreva-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:geovanalimaczs567@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovana-lima-bbaa4a351/)
+[![Portfólio](https://img.shields.io/badge/Portfolio-7C5CFC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://geovanarlx.github.io/Portifolio-Geovana-Lima/)
+[![E-mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geovanalimaczs567@gmail.com)
 
 </div>
